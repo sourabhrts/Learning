@@ -1,0 +1,19 @@
+logrotate state -- version 2
+"/home/sourabh/.cache/upstart/gnome-keyring-ssh.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/indicator-sound.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/gpg-agent.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/update-notifier-release.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/upstart-event-bridge.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/window-stack-bridge.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/upstart-dbus-system-bridge.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/unity-settings-daemon.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/hud.log" 2018-4-2-23:28:47
+"/home/sourabh/.cache/upstart/unity7.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/at-spi2-registryd.log" 2018-3-15-7:36:9
+"/home/sourabh/.cache/upstart/dbus.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/unity-panel-service-lockscreen.log" 2018-4-1-15:0:45
+"/home/sourabh/.cache/upstart/*.log" 2018-3-18-13:0:0
+"/home/sourabh/.cache/upstart/unity-panel-service.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/indicator-application.log" 2018-4-1-19:5:18
+"/home/sourabh/.cache/upstart/ssh-agent.log" 2018-4-2-23:5:59
+"/home/sourabh/.cache/upstart/bamfdaemon.log" 2018-4-1-19:5:18
